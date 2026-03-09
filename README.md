@@ -33,9 +33,9 @@ Meu objetivo é transformar dados complexos em produtos reais e interfaces acess
 ### 📊 Meus Dados no GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=edumdp-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumdp-dev&layout=compact&langs_count=6&theme=dracula" alt="Top Languages"/>
-</div>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=edumdp-dev&show_icons=true&theme=dracula&include_all_commits=true&v=1" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edumdp-dev&layout=compact&langs_count=6&theme=dracula&v=1" alt="Top Languages"/>
+</div>>
 
 ---
 
