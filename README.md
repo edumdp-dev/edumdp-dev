@@ -1,21 +1,30 @@
-### Olá! 👋 
+### Olá! 👋 Sou o Edu
 
-Sou um profissional que transita entre a análise de negócios e o desenvolvimento de software, com forte atuação na transformação de dados em produtos reais e estratégias antifraude.
+Sou um profissional que atua na intersecção entre **Análise de Negócios, Dados e Desenvolvimento de Software**. Atualmente, trabalho no setor financeiro/iGaming, focando em produtos de Capitalização e Loterias, enquanto construo soluções web e exploro Inteligência Artificial.
 
-**O que eu faço:**
-* 💼 Atuo na intersecção entre negócios, produtos financeiros (como antecipação salarial e iGaming) e tecnologia.
-* 🔍 Desenvolvo motores de detecção de contas fraudulentas e dashboards analíticos de alto impacto.
-* 💻 Construo e refatoro aplicações web focadas em escalabilidade e performance.
+Meu objetivo é transformar dados complexos em produtos reais e interfaces acessíveis.
 
-**🛠️ Tech Stack & Ferramentas:**
-* **Linguagens:** Python, SQL, HTML, CSS
-* **Front-end:** React
-* **Back-end:** Node.js (Express, migrando para NestJS)
-* **Dados & IA:** Databricks, Processamento de Linguagem Natural (NLP), Data Analytics
+**🛠️ Minha Stack & Ferramentas**
+* **Linguagens:** Python, JavaScript, TypeScript, SQL, HTML/CSS
+* **Front-end:** React, Node.js (Express/NestJS em evolução)
+* **Dados & IA:** Jupyter Notebooks, Databricks, Data Analytics, NLP, Machine Learning Básico (Perceptron)
 
-**🚀 Projetos Recentes:**
-* Refatoração de um portal de ganhadores de prêmios (de Express para NestJS).
-* Criação de arquiteturas e motores de prevenção à fraude do zero.
+**🗂️ O que você vai encontrar por aqui (Meus Projetos Públicos)**
+Meu GitHub é o meu laboratório de estudos e experimentações. Aqui estão algumas áreas que venho explorando:
 
-**⚡ Curiosidades:**
-Quando não estou codando ou analisando dados, você provavelmente vai me encontrar explorando Night City em *Cyberpunk 2077*, tentando sobreviver em *Elden Ring*, assistindo a um bom anime ou aprendendo acordes novos no violão e no piano.
+* 📊 **Dados & Finanças:** Análises de crédito, estudos financeiros e métricas de negócios.
+  * `project-swift-nps-analytics` (Jupyter)
+  * `analisedecredito` & `project-study-of-finance`
+* 💻 **Web Design & Interfaces:** Landing pages e interfaces focadas na experiência do usuário.
+  * `project-adidas-tagline`, `project-company-private-motors`, `project-situational-leadership`
+* 🤖 **Inteligência Artificial:** Fundamentos de IA e redes neurais.
+  * `project-perceptron-study` (TypeScript)
+  * `project-historical-chatbot`
+
+**🚀 O que estou construindo / Próximos Passos**
+* Migrando projetos clássicos de front-end para **React/Next.js**.
+* Integrando meus modelos de análise de dados (Python) com interfaces web (TS/JS).
+* Documentando ativamente meus repositórios para compartilhar meus aprendizados com a comunidade.
+
+**⚡ Fora do código:**
+Quando não estou codando, analisando fraudes ou estudando, estou sobrevivendo em *Elden Ring*, explorando Night City em *Cyberpunk 2077*, assistindo animes ou tocando violão e piano.
