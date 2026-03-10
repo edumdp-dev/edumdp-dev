@@ -44,7 +44,7 @@ Meu GitHub é o meu laboratório de estudos e experimentações. Aqui estão alg
 
 * 📊 **Dados & Finanças:** Análises de crédito, estudos financeiros e métricas de negócios.
   * [project-swift-nps-analytics](https://github.com/edumdp-dev/project-swift-nps-analytics) (Jupyter)
-  * [analisedecredito](https://github.com/edumdp-dev/analisedecredito) & [project-study-of-finance](https://github.com/edumdp-dev/project-study-of-finance)
+  * [project-study-of-finance](https://github.com/edumdp-dev/project-study-of-finance)
 * 💻 **Web Design & Interfaces:** Landing pages e interfaces focadas na experiência do usuário.
   * [project-adidas-tagline](https://github.com/edumdp-dev/project-adidas-tagline)
   * [project-company-private-motors](https://github.com/edumdp-dev/project-company-private-motors)
