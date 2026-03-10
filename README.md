@@ -58,6 +58,7 @@ Meu GitHub é o meu laboratório de estudos e experimentações. Aqui estão alg
 ### 🚀 O que estou construindo / Próximos Passos
 
 * Migrando projetos clássicos de front-end para **React/Next.js**.
+* Aprendendo BackEnd + API REST
 * Integrando meus modelos de análise de dados (Python) com interfaces web (TS/JS).
 * Documentando ativamente meus repositórios para compartilhar meus aprendizados com a comunidade.
 
@@ -65,7 +66,7 @@ Meu GitHub é o meu laboratório de estudos e experimentações. Aqui estão alg
 
 ### ⚡ Fora do código
 
-Quando não estou codando, analisando fraudes ou estudando, estou sobrevivendo em *Elden Ring*, explorando Night City em *Cyberpunk 2077*, assistindo animes ou tocando violão e piano.
+Quando não estou codando, analisando dados ou estudando, estou sobrevivendo em *Elden Ring*, explorando *Night City* ou *lendo mangás*.
 
 ---
 
