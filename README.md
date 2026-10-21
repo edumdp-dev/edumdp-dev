@@ -1,7 +1,7 @@
 <h1 align="center">Eduardo (Dudu) Moraes de Paula</h1>
 
 <p align="center">
-  <b>Solutions Engineer</b> · PicPay (JogaJunto) · São Paulo
+  <b>Software, Data & AI Engineer</b> · PicPay · JogaJunto · São Paulo
 </p>
 
 <p align="center">
@@ -10,29 +10,29 @@
   <a href="mailto:edumoraes.depaula@gmail.com"><img src="https://img.shields.io/badge/email-edumoraes.depaula%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-Resolvo problemas de ponta a ponta com tecnologia. Transito entre Negócios, Growth, Produto, Dados e Engenharia: entendo a dor com a área, acho a causa no dado, desenho a solução e coloco em produção, do backend e frontend à AWS e a workflows com agentes de IA.
+Resolvo problemas de ponta a ponta com tecnologia. Transito entre Negócios, Growth, Produto, Dados e Engenharia sem precisar de tradutor: entendo o problema com a área, encontro a causa no dado, desenho a solução e coloco em produção, do backend e frontend à AWS e a workflows com agentes de IA.
 
-Atuo na **JogaJunto**, a área de bets do **PicPay** (Sportsbook, Casino e JogaJunto Play), e na vertical de iGaming (Capitalização e Loterias).
+No **PicPay**, atuo na **JogaJunto**, a operação de bets do PicPay (Sportsbook, Casino e JogaJunto Play), onde sou a referência em engenharia e análise de dados, e apoio a vertical de iGaming do PicPay (Capitalização e Loterias).
 
-### Entregas
+### Destaques
 
-| | |
-|---|---|
-| ⚡ **−81% de invocações na AWS** | Malha de 71 funções Lambda + EventBridge revisada: ~6.150 → ~1.160 invocações/dia e 1.540+ execuções SQL redundantes evitadas por dia. |
-| 🔗 **Atribuição de mídia: 0,9% → 99%** | Investigação do redirect ao reporting; especifiquei e validei a correção que recuperou a cobertura de Affiliate ID. |
-| 🏆 **1º lugar no Hackathon de IA da VP AE, PicPay** | Dexter: modelo de recomendação com CatBoost, LightGBM e lookalike sobre 68 mi de clientes; consultas em < 20 ms com Kotlin + DuckDB + Parquet. |
-| 🎮 **JogaJunto Play** | Jogos autorais em TypeScript e um BFF em Kotlin que desacopla a camada de jogo do monolito. |
-| 🛡️ **Prevenção à fraude** | Detecção de padrões anômalos em Python + Databricks que bloqueou ~600 contas de alto risco. |
+- 🎮 **JogaJunto Play:** frontend completo da plataforma (cadastro, login, depósito e pós-venda) e mais de 20 jogos autorais em 2D, 3D e pixel art.
+- 📊 **Dados na JogaJunto:** dashboards para a empresa inteira, funil de referência da Vice-Presidência e relatórios automatizados em vários formatos.
+- 🔗 **Tracking e growth:** GA4, GTM, pixels e integrações com afiliados e APIs de anúncios desde o lançamento da marca.
+- 🤖 **IA no time:** MCPs próprios para plataformas internas e parceiras, e educação em IA para o time.
+- 🏆 **Dexter:** modelo de recomendação do projeto vencedor do Hackathon de IA da VP AE do PicPay.
 
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,ts,react,kotlin,aws,postgres,tailwind,nodejs,git&theme=dark" alt="Python, TypeScript, React, Kotlin, AWS, SQL, Tailwind, Node.js, Git">
+  <img src="https://skillicons.dev/icons?i=py,ts,react,kotlin,aws,nodejs,nestjs,fastapi,postgres,tailwind,vite,git&theme=dark" alt="Python, TypeScript, React, Kotlin, AWS, Node.js, NestJS, FastAPI, PostgreSQL, Tailwind, Vite, Git">
 </p>
 
-- **Software:** TypeScript, React, Kotlin (BFF), Node.js, Tailwind
-- **Dados & Cloud:** SQL, Databricks, Redshift, Apache Iceberg, DuckDB/Parquet, AWS Lambda, EventBridge, API Gateway, New Relic
-- **IA & ML:** workflows com agentes, integrações via MCP e APIs, skills com contexto de domínio, CatBoost, LightGBM
+- **Linguagens:** Python, SQL, TypeScript, JavaScript, Kotlin
+- **Frontend & Backend:** React, Vite, Tailwind CSS, Node.js, NestJS, FastAPI, BFF e microsserviços
+- **Dados:** Databricks, PySpark, Redshift, Apache Iceberg, DuckDB, Parquet, PostgreSQL, QuickSight
+- **Cloud & Growth:** AWS (Lambda, EventBridge, EC2, VPC, API Gateway, S3, CloudFront), New Relic, GA4, GTM
+- **IA & ML:** agentes de IA, MCP, APIs de LLM, Hugging Face Transformers, CatBoost, LightGBM
 
 ### Projetos abertos
 
