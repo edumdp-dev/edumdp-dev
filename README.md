@@ -1,7 +1,7 @@
 <h1 align="center">Eduardo (Dudu) Moraes de Paula</h1>
 
 <p align="center">
-  <b>Software, Data & AI Engineer</b> · JogaJunto & PicPay · São Paulo
+  <b>Solutions Engineer</b> · PicPay (JogaJunto) · São Paulo
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
   <a href="mailto:edumoraes.depaula@gmail.com"><img src="https://img.shields.io/badge/email-edumoraes.depaula%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-Desenvolvo produtos, aplicações e automações que ligam problema de negócio a software, dados e IA. Comecei em vendas, passei por Produto e Analytics e hoje entrego de ponta a ponta: do diagnóstico no dado ao backend, frontend e infraestrutura na AWS.
+Resolvo problemas de ponta a ponta com tecnologia. Transito entre Negócios, Growth, Produto, Dados e Engenharia: entendo a dor com a área, acho a causa no dado, desenho a solução e coloco em produção, do backend e frontend à AWS e a workflows com agentes de IA.
 
-Atuo na **JogaJunto** (Sportsbook, Casino e JogaJunto Play) e como referência técnica de dados da vertical de iGaming do **PicPay** (Capitalização e Loterias).
+Atuo na **JogaJunto**, a área de bets do **PicPay** (Sportsbook, Casino e JogaJunto Play), e na vertical de iGaming (Capitalização e Loterias).
 
 ### Entregas
 
